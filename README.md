@@ -42,7 +42,7 @@ O projeto**Teste Prático: Dev Backend Supermercado do Mercado Livre** tem como 
 
 1. Clone o repositório
 
-Abra o terminal e execute o comando `git@github.com:fernandoluckesi/supermercado.git ou https://github.com/fernandoluckesi/supermercado.git`
+Abra o terminal e execute o comando `git@github.com:fernandoluckesi/supermercado-0.git ou https://github.com/fernandoluckesi/supermercado-0.git`
 
 2. Instale as dependências de desenvolvimento
 
