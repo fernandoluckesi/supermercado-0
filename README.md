@@ -18,7 +18,7 @@ Aqui neste README não irei detalhar cada rota da API pois já existe uma docume
 
 # Objetivo do projeto
 
-O projeto**Teste Prático: Dev Backend Supermercado do Mercado Livre** tem como objetivo demonstrar minhas seguintes habilidades como Desenvolvedor de Software com ênfase no back-end:
+O projeto tem como objetivo demonstrar minhas seguintes habilidades como Desenvolvedor de Software com ênfase no back-end:
 
 - Programação orientada a objetos (POO)
 - Java
